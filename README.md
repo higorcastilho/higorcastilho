@@ -2,6 +2,8 @@
 
 ### :technologist: Building amazing things
 ### :coffee: Learning more about web development
+### :shipit: Also learning more about security, architecture and microservices 
+### :penguin: Linux has a big place in my heart
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=higorcastilho&layout=compact&langs_count=8&theme=dracula" >
 
