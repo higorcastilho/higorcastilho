@@ -2,8 +2,8 @@
 
 ### :technologist: Building amazing things
 ### :coffee: Learning more about web development
-### :mage_man: Trying out things on [leetcode](https://leetcode.com/higorcastilho/)
-![](https://leetcard.jacoblin.cool/leetcode?site=us)
+### :mage_man: Trying out things on [leetcode](https://leetcode.com/higorcastilho/):
+![](https://leetcard.jacoblin.cool/higorcastilho?site=us)
 
 <!--
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=higorcastilho&layout=compact&langs_count=8&theme=dracula" >
