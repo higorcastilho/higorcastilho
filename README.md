@@ -2,7 +2,7 @@
 
 ### :technologist: Building amazing things
 ### :coffee: Learning more about web development
-### :mage_man: Trying out things on [leetcode](https://leetcode.com/higorcastilho/):
+### :mage_man: Trying things out on [leetcode](https://leetcode.com/higorcastilho/):
 ![](https://leetcard.jacoblin.cool/higorcastilho?site=us)
 
 <!--
