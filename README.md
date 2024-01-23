@@ -1,6 +1,5 @@
 ## Hello, World :metal: 
 
-### :technologist: Building amazing things
 ### :coffee: Learning more about web development
 ### :mage_man: Trying things out on [leetcode](https://leetcode.com/higorcastilho/):
 ![](https://leetcard.jacoblin.cool/higorcastilho?site=us)
